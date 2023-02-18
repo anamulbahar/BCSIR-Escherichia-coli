@@ -1,0 +1,189 @@
+# Assembly name:  ASM2022361v1
+# Organism name:  Escherichia coli (E. coli)
+# Infraspecific name:  strain=C6S6_CB1
+# Taxid:          562
+# BioSample:      SAMN20931197
+# BioProject:     PRJNA756824
+# Submitter:      Bangladesh Council of Scientific and Industrial Research (BCSIR)
+# Date:           2021-10-04
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    JAIOUT01
+# Assembly method: SPAdes v. 3.13.1
+# Expected final version: yes
+# Genome coverage: 50.0x
+# Sequencing technology: Illumina NextSeq
+# GenBank assembly accession: GCA_020223615.1
+# RefSeq assembly accession: GCF_020223615.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_020223645.1	GCF_020223645.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+scaffold_45	assembled-molecule	pIncFIB	Plasmid	JAIOUT010000046.1	=	NZ_JAIOUT010000046.1	Primary Assembly	6255	na
+scaffold_10	assembled-molecule	pIncN	Plasmid	JAIOUT010000011.1	=	NZ_JAIOUT010000011.1	Primary Assembly	3195	na
+scaffold_0	unplaced-scaffold	na	na	JAIOUT010000001.1	=	NZ_JAIOUT010000001.1	Primary Assembly	2536	na
+scaffold_1	unplaced-scaffold	na	na	JAIOUT010000002.1	=	NZ_JAIOUT010000002.1	Primary Assembly	205	na
+scaffold_100	unplaced-scaffold	na	na	JAIOUT010000101.1	=	NZ_JAIOUT010000101.1	Primary Assembly	6304	na
+scaffold_101	unplaced-scaffold	na	na	JAIOUT010000102.1	=	NZ_JAIOUT010000102.1	Primary Assembly	9261	na
+scaffold_102	unplaced-scaffold	na	na	JAIOUT010000103.1	=	NZ_JAIOUT010000103.1	Primary Assembly	84992	na
+scaffold_103	unplaced-scaffold	na	na	JAIOUT010000104.1	=	NZ_JAIOUT010000104.1	Primary Assembly	3349	na
+scaffold_104	unplaced-scaffold	na	na	JAIOUT010000105.1	=	NZ_JAIOUT010000105.1	Primary Assembly	74235	na
+scaffold_105	unplaced-scaffold	na	na	JAIOUT010000106.1	=	NZ_JAIOUT010000106.1	Primary Assembly	282	na
+scaffold_106	unplaced-scaffold	na	na	JAIOUT010000107.1	=	NZ_JAIOUT010000107.1	Primary Assembly	405	na
+scaffold_107	unplaced-scaffold	na	na	JAIOUT010000108.1	=	NZ_JAIOUT010000108.1	Primary Assembly	27188	na
+scaffold_108	unplaced-scaffold	na	na	JAIOUT010000109.1	=	NZ_JAIOUT010000109.1	Primary Assembly	19448	na
+scaffold_109	unplaced-scaffold	na	na	JAIOUT010000110.1	=	NZ_JAIOUT010000110.1	Primary Assembly	1911	na
+scaffold_11	unplaced-scaffold	na	na	JAIOUT010000012.1	=	NZ_JAIOUT010000012.1	Primary Assembly	323	na
+scaffold_110	unplaced-scaffold	na	na	JAIOUT010000111.1	=	NZ_JAIOUT010000111.1	Primary Assembly	83086	na
+scaffold_111	unplaced-scaffold	na	na	JAIOUT010000112.1	=	NZ_JAIOUT010000112.1	Primary Assembly	12031	na
+scaffold_112	unplaced-scaffold	na	na	JAIOUT010000113.1	=	NZ_JAIOUT010000113.1	Primary Assembly	33163	na
+scaffold_113	unplaced-scaffold	na	na	JAIOUT010000114.1	=	NZ_JAIOUT010000114.1	Primary Assembly	72980	na
+scaffold_114	unplaced-scaffold	na	na	JAIOUT010000115.1	=	NZ_JAIOUT010000115.1	Primary Assembly	56583	na
+scaffold_115	unplaced-scaffold	na	na	JAIOUT010000116.1	=	NZ_JAIOUT010000116.1	Primary Assembly	277	na
+scaffold_116	unplaced-scaffold	na	na	JAIOUT010000117.1	=	NZ_JAIOUT010000117.1	Primary Assembly	11956	na
+scaffold_117	unplaced-scaffold	na	na	JAIOUT010000118.1	=	NZ_JAIOUT010000118.1	Primary Assembly	72070	na
+scaffold_118	unplaced-scaffold	na	na	JAIOUT010000119.1	=	NZ_JAIOUT010000119.1	Primary Assembly	134842	na
+scaffold_119	unplaced-scaffold	na	na	JAIOUT010000120.1	=	NZ_JAIOUT010000120.1	Primary Assembly	74315	na
+scaffold_12	unplaced-scaffold	na	na	JAIOUT010000013.1	=	NZ_JAIOUT010000013.1	Primary Assembly	314	na
+scaffold_120	unplaced-scaffold	na	na	JAIOUT010000121.1	=	NZ_JAIOUT010000121.1	Primary Assembly	282	na
+scaffold_121	unplaced-scaffold	na	na	JAIOUT010000122.1	=	NZ_JAIOUT010000122.1	Primary Assembly	303	na
+scaffold_122	unplaced-scaffold	na	na	JAIOUT010000123.1	=	NZ_JAIOUT010000123.1	Primary Assembly	36720	na
+scaffold_123	unplaced-scaffold	na	na	JAIOUT010000124.1	=	NZ_JAIOUT010000124.1	Primary Assembly	17832	na
+scaffold_124	unplaced-scaffold	na	na	JAIOUT010000125.1	=	NZ_JAIOUT010000125.1	Primary Assembly	139313	na
+scaffold_125	unplaced-scaffold	na	na	JAIOUT010000126.1	=	NZ_JAIOUT010000126.1	Primary Assembly	103762	na
+scaffold_126	unplaced-scaffold	na	na	JAIOUT010000127.1	=	NZ_JAIOUT010000127.1	Primary Assembly	2619	na
+scaffold_127	unplaced-scaffold	na	na	JAIOUT010000128.1	=	NZ_JAIOUT010000128.1	Primary Assembly	67570	na
+scaffold_128	unplaced-scaffold	na	na	JAIOUT010000129.1	=	NZ_JAIOUT010000129.1	Primary Assembly	397	na
+scaffold_129	unplaced-scaffold	na	na	JAIOUT010000130.1	=	NZ_JAIOUT010000130.1	Primary Assembly	397	na
+scaffold_13	unplaced-scaffold	na	na	JAIOUT010000014.1	=	NZ_JAIOUT010000014.1	Primary Assembly	1104	na
+scaffold_130	unplaced-scaffold	na	na	JAIOUT010000131.1	=	NZ_JAIOUT010000131.1	Primary Assembly	19483	na
+scaffold_131	unplaced-scaffold	na	na	JAIOUT010000132.1	=	NZ_JAIOUT010000132.1	Primary Assembly	128634	na
+scaffold_132	unplaced-scaffold	na	na	JAIOUT010000133.1	=	NZ_JAIOUT010000133.1	Primary Assembly	336	na
+scaffold_133	unplaced-scaffold	na	na	JAIOUT010000134.1	=	NZ_JAIOUT010000134.1	Primary Assembly	6956	na
+scaffold_134	unplaced-scaffold	na	na	JAIOUT010000135.1	=	NZ_JAIOUT010000135.1	Primary Assembly	41450	na
+scaffold_135	unplaced-scaffold	na	na	JAIOUT010000136.1	=	NZ_JAIOUT010000136.1	Primary Assembly	106630	na
+scaffold_136	unplaced-scaffold	na	na	JAIOUT010000137.1	=	NZ_JAIOUT010000137.1	Primary Assembly	128827	na
+scaffold_137	unplaced-scaffold	na	na	JAIOUT010000138.1	=	NZ_JAIOUT010000138.1	Primary Assembly	42992	na
+scaffold_138	unplaced-scaffold	na	na	JAIOUT010000139.1	=	NZ_JAIOUT010000139.1	Primary Assembly	86673	na
+scaffold_139	unplaced-scaffold	na	na	JAIOUT010000140.1	=	NZ_JAIOUT010000140.1	Primary Assembly	3804	na
+scaffold_14	unplaced-scaffold	na	na	JAIOUT010000015.1	=	NZ_JAIOUT010000015.1	Primary Assembly	436	na
+scaffold_140	unplaced-scaffold	na	na	JAIOUT010000141.1	=	NZ_JAIOUT010000141.1	Primary Assembly	106850	na
+scaffold_141	unplaced-scaffold	na	na	JAIOUT010000142.1	=	NZ_JAIOUT010000142.1	Primary Assembly	432	na
+scaffold_142	unplaced-scaffold	na	na	JAIOUT010000143.1	=	NZ_JAIOUT010000143.1	Primary Assembly	89315	na
+scaffold_143	unplaced-scaffold	na	na	JAIOUT010000144.1	=	NZ_JAIOUT010000144.1	Primary Assembly	17764	na
+scaffold_144	unplaced-scaffold	na	na	JAIOUT010000145.1	=	NZ_JAIOUT010000145.1	Primary Assembly	98707	na
+scaffold_145	unplaced-scaffold	na	na	JAIOUT010000146.1	=	NZ_JAIOUT010000146.1	Primary Assembly	91775	na
+scaffold_146	unplaced-scaffold	na	na	JAIOUT010000147.1	=	NZ_JAIOUT010000147.1	Primary Assembly	87853	na
+scaffold_147	unplaced-scaffold	na	na	JAIOUT010000148.1	=	NZ_JAIOUT010000148.1	Primary Assembly	428	na
+scaffold_148	unplaced-scaffold	na	na	JAIOUT010000149.1	=	NZ_JAIOUT010000149.1	Primary Assembly	299878	na
+scaffold_149	unplaced-scaffold	na	na	JAIOUT010000150.1	=	NZ_JAIOUT010000150.1	Primary Assembly	198571	na
+scaffold_15	unplaced-scaffold	na	na	JAIOUT010000016.1	=	NZ_JAIOUT010000016.1	Primary Assembly	203	na
+scaffold_150	unplaced-scaffold	na	na	JAIOUT010000151.1	=	NZ_JAIOUT010000151.1	Primary Assembly	42303	na
+scaffold_151	unplaced-scaffold	na	na	JAIOUT010000152.1	=	NZ_JAIOUT010000152.1	Primary Assembly	88611	na
+scaffold_152	unplaced-scaffold	na	na	JAIOUT010000153.1	=	NZ_JAIOUT010000153.1	Primary Assembly	43541	na
+scaffold_153	unplaced-scaffold	na	na	JAIOUT010000154.1	=	NZ_JAIOUT010000154.1	Primary Assembly	195854	na
+scaffold_154	unplaced-scaffold	na	na	JAIOUT010000155.1	=	NZ_JAIOUT010000155.1	Primary Assembly	92964	na
+scaffold_155	unplaced-scaffold	na	na	JAIOUT010000156.1	=	NZ_JAIOUT010000156.1	Primary Assembly	212040	na
+scaffold_156	unplaced-scaffold	na	na	JAIOUT010000157.1	=	NZ_JAIOUT010000157.1	Primary Assembly	2183	na
+scaffold_157	unplaced-scaffold	na	na	JAIOUT010000158.1	=	NZ_JAIOUT010000158.1	Primary Assembly	104012	na
+scaffold_16	unplaced-scaffold	na	na	JAIOUT010000017.1	=	NZ_JAIOUT010000017.1	Primary Assembly	6503	na
+scaffold_17	unplaced-scaffold	na	na	JAIOUT010000018.1	=	NZ_JAIOUT010000018.1	Primary Assembly	761	na
+scaffold_18	unplaced-scaffold	na	na	JAIOUT010000019.1	=	NZ_JAIOUT010000019.1	Primary Assembly	1031	na
+scaffold_19	unplaced-scaffold	na	na	JAIOUT010000020.1	=	NZ_JAIOUT010000020.1	Primary Assembly	1133	na
+scaffold_2	unplaced-scaffold	na	na	JAIOUT010000003.1	=	NZ_JAIOUT010000003.1	Primary Assembly	1134	na
+scaffold_20	unplaced-scaffold	na	na	JAIOUT010000021.1	=	NZ_JAIOUT010000021.1	Primary Assembly	3692	na
+scaffold_21	unplaced-scaffold	na	na	JAIOUT010000022.1	=	NZ_JAIOUT010000022.1	Primary Assembly	205	na
+scaffold_22	unplaced-scaffold	na	na	JAIOUT010000023.1	=	NZ_JAIOUT010000023.1	Primary Assembly	589	na
+scaffold_23	unplaced-scaffold	na	na	JAIOUT010000024.1	=	NZ_JAIOUT010000024.1	Primary Assembly	1018	na
+scaffold_24	unplaced-scaffold	na	na	JAIOUT010000025.1	=	NZ_JAIOUT010000025.1	Primary Assembly	498	na
+scaffold_25	unplaced-scaffold	na	na	JAIOUT010000026.1	=	NZ_JAIOUT010000026.1	Primary Assembly	4420	na
+scaffold_26	unplaced-scaffold	na	na	JAIOUT010000027.1	=	NZ_JAIOUT010000027.1	Primary Assembly	344	na
+scaffold_27	unplaced-scaffold	na	na	JAIOUT010000028.1	=	NZ_JAIOUT010000028.1	Primary Assembly	8781	na
+scaffold_28	unplaced-scaffold	na	na	JAIOUT010000029.1	=	NZ_JAIOUT010000029.1	Primary Assembly	351	na
+scaffold_29	unplaced-scaffold	na	na	JAIOUT010000030.1	=	NZ_JAIOUT010000030.1	Primary Assembly	264	na
+scaffold_3	unplaced-scaffold	na	na	JAIOUT010000004.1	=	NZ_JAIOUT010000004.1	Primary Assembly	1460	na
+scaffold_30	unplaced-scaffold	na	na	JAIOUT010000031.1	=	NZ_JAIOUT010000031.1	Primary Assembly	254	na
+scaffold_31	unplaced-scaffold	na	na	JAIOUT010000032.1	=	NZ_JAIOUT010000032.1	Primary Assembly	1699	na
+scaffold_32	unplaced-scaffold	na	na	JAIOUT010000033.1	=	NZ_JAIOUT010000033.1	Primary Assembly	4396	na
+scaffold_33	unplaced-scaffold	na	na	JAIOUT010000034.1	=	NZ_JAIOUT010000034.1	Primary Assembly	281	na
+scaffold_34	unplaced-scaffold	na	na	JAIOUT010000035.1	=	NZ_JAIOUT010000035.1	Primary Assembly	1886	na
+scaffold_35	unplaced-scaffold	na	na	JAIOUT010000036.1	=	NZ_JAIOUT010000036.1	Primary Assembly	1701	na
+scaffold_36	unplaced-scaffold	na	na	JAIOUT010000037.1	=	NZ_JAIOUT010000037.1	Primary Assembly	289	na
+scaffold_37	unplaced-scaffold	na	na	JAIOUT010000038.1	=	NZ_JAIOUT010000038.1	Primary Assembly	66559	na
+scaffold_38	unplaced-scaffold	na	na	JAIOUT010000039.1	=	NZ_JAIOUT010000039.1	Primary Assembly	12643	na
+scaffold_39	unplaced-scaffold	na	na	JAIOUT010000040.1	=	NZ_JAIOUT010000040.1	Primary Assembly	276	na
+scaffold_4	unplaced-scaffold	na	na	JAIOUT010000005.1	=	NZ_JAIOUT010000005.1	Primary Assembly	392	na
+scaffold_40	unplaced-scaffold	na	na	JAIOUT010000041.1	=	NZ_JAIOUT010000041.1	Primary Assembly	371	na
+scaffold_41	unplaced-scaffold	na	na	JAIOUT010000042.1	=	NZ_JAIOUT010000042.1	Primary Assembly	333	na
+scaffold_42	unplaced-scaffold	na	na	JAIOUT010000043.1	=	NZ_JAIOUT010000043.1	Primary Assembly	22208	na
+scaffold_43	unplaced-scaffold	na	na	JAIOUT010000044.1	=	NZ_JAIOUT010000044.1	Primary Assembly	2218	na
+scaffold_44	unplaced-scaffold	na	na	JAIOUT010000045.1	=	NZ_JAIOUT010000045.1	Primary Assembly	1922	na
+scaffold_46	unplaced-scaffold	na	na	JAIOUT010000047.1	=	NZ_JAIOUT010000047.1	Primary Assembly	1423	na
+scaffold_47	unplaced-scaffold	na	na	JAIOUT010000048.1	=	NZ_JAIOUT010000048.1	Primary Assembly	5740	na
+scaffold_48	unplaced-scaffold	na	na	JAIOUT010000049.1	=	NZ_JAIOUT010000049.1	Primary Assembly	15291	na
+scaffold_49	unplaced-scaffold	na	na	JAIOUT010000050.1	=	NZ_JAIOUT010000050.1	Primary Assembly	28360	na
+scaffold_5	unplaced-scaffold	na	na	JAIOUT010000006.1	=	NZ_JAIOUT010000006.1	Primary Assembly	4557	na
+scaffold_50	unplaced-scaffold	na	na	JAIOUT010000051.1	=	NZ_JAIOUT010000051.1	Primary Assembly	9338	na
+scaffold_51	unplaced-scaffold	na	na	JAIOUT010000052.1	=	NZ_JAIOUT010000052.1	Primary Assembly	377	na
+scaffold_52	unplaced-scaffold	na	na	JAIOUT010000053.1	=	NZ_JAIOUT010000053.1	Primary Assembly	26723	na
+scaffold_53	unplaced-scaffold	na	na	JAIOUT010000054.1	=	NZ_JAIOUT010000054.1	Primary Assembly	19773	na
+scaffold_54	unplaced-scaffold	na	na	JAIOUT010000055.1	=	NZ_JAIOUT010000055.1	Primary Assembly	24075	na
+scaffold_55	unplaced-scaffold	na	na	JAIOUT010000056.1	=	NZ_JAIOUT010000056.1	Primary Assembly	30849	na
+scaffold_56	unplaced-scaffold	na	na	JAIOUT010000057.1	=	NZ_JAIOUT010000057.1	Primary Assembly	27594	na
+scaffold_57	unplaced-scaffold	na	na	JAIOUT010000058.1	=	NZ_JAIOUT010000058.1	Primary Assembly	14485	na
+scaffold_58	unplaced-scaffold	na	na	JAIOUT010000059.1	=	NZ_JAIOUT010000059.1	Primary Assembly	33620	na
+scaffold_59	unplaced-scaffold	na	na	JAIOUT010000060.1	=	NZ_JAIOUT010000060.1	Primary Assembly	39360	na
+scaffold_6	unplaced-scaffold	na	na	JAIOUT010000007.1	=	NZ_JAIOUT010000007.1	Primary Assembly	235	na
+scaffold_60	unplaced-scaffold	na	na	JAIOUT010000061.1	=	NZ_JAIOUT010000061.1	Primary Assembly	32310	na
+scaffold_61	unplaced-scaffold	na	na	JAIOUT010000062.1	=	NZ_JAIOUT010000062.1	Primary Assembly	1020	na
+scaffold_62	unplaced-scaffold	na	na	JAIOUT010000063.1	=	NZ_JAIOUT010000063.1	Primary Assembly	766	na
+scaffold_63	unplaced-scaffold	na	na	JAIOUT010000064.1	=	NZ_JAIOUT010000064.1	Primary Assembly	10807	na
+scaffold_64	unplaced-scaffold	na	na	JAIOUT010000065.1	=	NZ_JAIOUT010000065.1	Primary Assembly	307	na
+scaffold_65	unplaced-scaffold	na	na	JAIOUT010000066.1	=	NZ_JAIOUT010000066.1	Primary Assembly	264	na
+scaffold_66	unplaced-scaffold	na	na	JAIOUT010000067.1	=	NZ_JAIOUT010000067.1	Primary Assembly	243	na
+scaffold_67	unplaced-scaffold	na	na	JAIOUT010000068.1	=	NZ_JAIOUT010000068.1	Primary Assembly	1213	na
+scaffold_68	unplaced-scaffold	na	na	JAIOUT010000069.1	=	NZ_JAIOUT010000069.1	Primary Assembly	23362	na
+scaffold_69	unplaced-scaffold	na	na	JAIOUT010000070.1	=	NZ_JAIOUT010000070.1	Primary Assembly	475	na
+scaffold_7	unplaced-scaffold	na	na	JAIOUT010000008.1	=	NZ_JAIOUT010000008.1	Primary Assembly	6960	na
+scaffold_70	unplaced-scaffold	na	na	JAIOUT010000071.1	=	NZ_JAIOUT010000071.1	Primary Assembly	1319	na
+scaffold_71	unplaced-scaffold	na	na	JAIOUT010000072.1	=	NZ_JAIOUT010000072.1	Primary Assembly	41743	na
+scaffold_72	unplaced-scaffold	na	na	JAIOUT010000073.1	=	NZ_JAIOUT010000073.1	Primary Assembly	23625	na
+scaffold_73	unplaced-scaffold	na	na	JAIOUT010000074.1	=	NZ_JAIOUT010000074.1	Primary Assembly	5127	na
+scaffold_74	unplaced-scaffold	na	na	JAIOUT010000075.1	=	NZ_JAIOUT010000075.1	Primary Assembly	42143	na
+scaffold_75	unplaced-scaffold	na	na	JAIOUT010000076.1	=	NZ_JAIOUT010000076.1	Primary Assembly	42138	na
+scaffold_76	unplaced-scaffold	na	na	JAIOUT010000077.1	=	NZ_JAIOUT010000077.1	Primary Assembly	471	na
+scaffold_77	unplaced-scaffold	na	na	JAIOUT010000078.1	=	NZ_JAIOUT010000078.1	Primary Assembly	2578	na
+scaffold_78	unplaced-scaffold	na	na	JAIOUT010000079.1	=	NZ_JAIOUT010000079.1	Primary Assembly	3018	na
+scaffold_79	unplaced-scaffold	na	na	JAIOUT010000080.1	=	NZ_JAIOUT010000080.1	Primary Assembly	34749	na
+scaffold_8	unplaced-scaffold	na	na	JAIOUT010000009.1	=	NZ_JAIOUT010000009.1	Primary Assembly	3246	na
+scaffold_80	unplaced-scaffold	na	na	JAIOUT010000081.1	=	NZ_JAIOUT010000081.1	Primary Assembly	26872	na
+scaffold_81	unplaced-scaffold	na	na	JAIOUT010000082.1	=	NZ_JAIOUT010000082.1	Primary Assembly	84422	na
+scaffold_82	unplaced-scaffold	na	na	JAIOUT010000083.1	=	NZ_JAIOUT010000083.1	Primary Assembly	3535	na
+scaffold_83	unplaced-scaffold	na	na	JAIOUT010000084.1	=	NZ_JAIOUT010000084.1	Primary Assembly	43006	na
+scaffold_84	unplaced-scaffold	na	na	JAIOUT010000085.1	=	NZ_JAIOUT010000085.1	Primary Assembly	48799	na
+scaffold_85	unplaced-scaffold	na	na	JAIOUT010000086.1	=	NZ_JAIOUT010000086.1	Primary Assembly	206	na
+scaffold_86	unplaced-scaffold	na	na	JAIOUT010000087.1	=	NZ_JAIOUT010000087.1	Primary Assembly	8993	na
+scaffold_87	unplaced-scaffold	na	na	JAIOUT010000088.1	=	NZ_JAIOUT010000088.1	Primary Assembly	220	na
+scaffold_88	unplaced-scaffold	na	na	JAIOUT010000089.1	=	NZ_JAIOUT010000089.1	Primary Assembly	22462	na
+scaffold_89	unplaced-scaffold	na	na	JAIOUT010000090.1	=	NZ_JAIOUT010000090.1	Primary Assembly	279	na
+scaffold_9	unplaced-scaffold	na	na	JAIOUT010000010.1	=	NZ_JAIOUT010000010.1	Primary Assembly	281	na
+scaffold_90	unplaced-scaffold	na	na	JAIOUT010000091.1	=	NZ_JAIOUT010000091.1	Primary Assembly	680	na
+scaffold_91	unplaced-scaffold	na	na	JAIOUT010000092.1	=	NZ_JAIOUT010000092.1	Primary Assembly	30303	na
+scaffold_92	unplaced-scaffold	na	na	JAIOUT010000093.1	=	NZ_JAIOUT010000093.1	Primary Assembly	283	na
+scaffold_93	unplaced-scaffold	na	na	JAIOUT010000094.1	=	NZ_JAIOUT010000094.1	Primary Assembly	46916	na
+scaffold_94	unplaced-scaffold	na	na	JAIOUT010000095.1	=	NZ_JAIOUT010000095.1	Primary Assembly	27710	na
+scaffold_95	unplaced-scaffold	na	na	JAIOUT010000096.1	=	NZ_JAIOUT010000096.1	Primary Assembly	8624	na
+scaffold_96	unplaced-scaffold	na	na	JAIOUT010000097.1	=	NZ_JAIOUT010000097.1	Primary Assembly	3714	na
+scaffold_97	unplaced-scaffold	na	na	JAIOUT010000098.1	=	NZ_JAIOUT010000098.1	Primary Assembly	4949	na
+scaffold_98	unplaced-scaffold	na	na	JAIOUT010000099.1	=	NZ_JAIOUT010000099.1	Primary Assembly	29019	na
+scaffold_99	unplaced-scaffold	na	na	JAIOUT010000100.1	=	NZ_JAIOUT010000100.1	Primary Assembly	39744	na

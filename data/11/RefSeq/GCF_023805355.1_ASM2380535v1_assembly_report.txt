@@ -1,0 +1,122 @@
+# Assembly name:  ASM2380535v1
+# Organism name:  Klebsiella quasipneumoniae (enterobacteria)
+# Infraspecific name:  strain=C11S11_BCSIR
+# Taxid:          1463165
+# BioSample:      SAMN28860376
+# BioProject:     PRJNA845367
+# Submitter:      Bangladesh Council of Scientific and Industrial Research (BCSIR)
+# Date:           2022-06-18
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    JAMSHK01
+# Assembly method: SPAdes v. 3.14.1
+# Expected final version: yes
+# Genome coverage: 54x
+# Sequencing technology: Illumina NextSeq
+# GenBank assembly accession: GCA_023805355.1
+# RefSeq assembly accession: GCF_023805355.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_023805365.1	GCF_023805365.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+49_length_13710_depth_0.53x	assembled-molecule	IncFII-K	Plasmid	JAMSHK010000049.1	=	NZ_JAMSHK010000049.1	Primary Assembly	13710	na
+56_length_8508_depth_0.62x	assembled-molecule	IncFIB-K-pCAV1099-1	Plasmid	JAMSHK010000056.1	=	NZ_JAMSHK010000056.1	Primary Assembly	8508	na
+10_length_203219_depth_0.98x	unplaced-scaffold	na	na	JAMSHK010000010.1	=	NZ_JAMSHK010000010.1	Primary Assembly	203219	na
+11_length_198177_depth_1.02x	unplaced-scaffold	na	na	JAMSHK010000011.1	=	NZ_JAMSHK010000011.1	Primary Assembly	198177	na
+12_length_196861_depth_0.93x	unplaced-scaffold	na	na	JAMSHK010000012.1	=	NZ_JAMSHK010000012.1	Primary Assembly	196861	na
+13_length_162735_depth_0.91x	unplaced-scaffold	na	na	JAMSHK010000013.1	=	NZ_JAMSHK010000013.1	Primary Assembly	162735	na
+14_length_152091_depth_0.91x	unplaced-scaffold	na	na	JAMSHK010000014.1	=	NZ_JAMSHK010000014.1	Primary Assembly	152091	na
+15_length_144156_depth_0.96x	unplaced-scaffold	na	na	JAMSHK010000015.1	=	NZ_JAMSHK010000015.1	Primary Assembly	144156	na
+16_length_144125_depth_1.01x	unplaced-scaffold	na	na	JAMSHK010000016.1	=	NZ_JAMSHK010000016.1	Primary Assembly	144125	na
+17_length_117811_depth_0.93x	unplaced-scaffold	na	na	JAMSHK010000017.1	=	NZ_JAMSHK010000017.1	Primary Assembly	117811	na
+18_length_113117_depth_0.41x_circular_true	unplaced-scaffold	na	na	JAMSHK010000018.1	=	NZ_JAMSHK010000018.1	Primary Assembly	113117	na
+19_length_101501_depth_1.05x	unplaced-scaffold	na	na	JAMSHK010000019.1	=	NZ_JAMSHK010000019.1	Primary Assembly	101501	na
+1_length_324584_depth_1.06x	unplaced-scaffold	na	na	JAMSHK010000001.1	=	NZ_JAMSHK010000001.1	Primary Assembly	324584	na
+20_length_95345_depth_0.89x	unplaced-scaffold	na	na	JAMSHK010000020.1	=	NZ_JAMSHK010000020.1	Primary Assembly	95345	na
+21_length_94732_depth_1.02x	unplaced-scaffold	na	na	JAMSHK010000021.1	=	NZ_JAMSHK010000021.1	Primary Assembly	94732	na
+22_length_93682_depth_1.04x	unplaced-scaffold	na	na	JAMSHK010000022.1	=	NZ_JAMSHK010000022.1	Primary Assembly	93682	na
+23_length_91421_depth_1.05x	unplaced-scaffold	na	na	JAMSHK010000023.1	=	NZ_JAMSHK010000023.1	Primary Assembly	91421	na
+24_length_89151_depth_0.92x	unplaced-scaffold	na	na	JAMSHK010000024.1	=	NZ_JAMSHK010000024.1	Primary Assembly	89151	na
+25_length_83569_depth_1.05x	unplaced-scaffold	na	na	JAMSHK010000025.1	=	NZ_JAMSHK010000025.1	Primary Assembly	83569	na
+26_length_81568_depth_1.04x	unplaced-scaffold	na	na	JAMSHK010000026.1	=	NZ_JAMSHK010000026.1	Primary Assembly	81568	na
+27_length_79185_depth_1.01x	unplaced-scaffold	na	na	JAMSHK010000027.1	=	NZ_JAMSHK010000027.1	Primary Assembly	79185	na
+28_length_57568_depth_0.89x	unplaced-scaffold	na	na	JAMSHK010000028.1	=	NZ_JAMSHK010000028.1	Primary Assembly	57568	na
+29_length_42320_depth_1.06x	unplaced-scaffold	na	na	JAMSHK010000029.1	=	NZ_JAMSHK010000029.1	Primary Assembly	42320	na
+2_length_322397_depth_0.93x	unplaced-scaffold	na	na	JAMSHK010000002.1	=	NZ_JAMSHK010000002.1	Primary Assembly	322397	na
+30_length_40064_depth_1.01x	unplaced-scaffold	na	na	JAMSHK010000030.1	=	NZ_JAMSHK010000030.1	Primary Assembly	40064	na
+31_length_37053_depth_0.56x	unplaced-scaffold	na	na	JAMSHK010000031.1	=	NZ_JAMSHK010000031.1	Primary Assembly	37053	na
+32_length_34693_depth_0.64x	unplaced-scaffold	na	na	JAMSHK010000032.1	=	NZ_JAMSHK010000032.1	Primary Assembly	34693	na
+33_length_34167_depth_1.06x	unplaced-scaffold	na	na	JAMSHK010000033.1	=	NZ_JAMSHK010000033.1	Primary Assembly	34167	na
+34_length_33607_depth_1.04x	unplaced-scaffold	na	na	JAMSHK010000034.1	=	NZ_JAMSHK010000034.1	Primary Assembly	33607	na
+35_length_29238_depth_0.90x	unplaced-scaffold	na	na	JAMSHK010000035.1	=	NZ_JAMSHK010000035.1	Primary Assembly	29238	na
+36_length_28060_depth_0.97x	unplaced-scaffold	na	na	JAMSHK010000036.1	=	NZ_JAMSHK010000036.1	Primary Assembly	28060	na
+37_length_27139_depth_0.95x	unplaced-scaffold	na	na	JAMSHK010000037.1	=	NZ_JAMSHK010000037.1	Primary Assembly	27139	na
+38_length_26171_depth_1.03x	unplaced-scaffold	na	na	JAMSHK010000038.1	=	NZ_JAMSHK010000038.1	Primary Assembly	26171	na
+39_length_25229_depth_1.08x	unplaced-scaffold	na	na	JAMSHK010000039.1	=	NZ_JAMSHK010000039.1	Primary Assembly	25229	na
+3_length_271324_depth_1.04x	unplaced-scaffold	na	na	JAMSHK010000003.1	=	NZ_JAMSHK010000003.1	Primary Assembly	271324	na
+40_length_24286_depth_0.96x	unplaced-scaffold	na	na	JAMSHK010000040.1	=	NZ_JAMSHK010000040.1	Primary Assembly	24286	na
+41_length_22391_depth_1.02x	unplaced-scaffold	na	na	JAMSHK010000041.1	=	NZ_JAMSHK010000041.1	Primary Assembly	22391	na
+42_length_21114_depth_0.90x	unplaced-scaffold	na	na	JAMSHK010000042.1	=	NZ_JAMSHK010000042.1	Primary Assembly	21114	na
+43_length_19372_depth_1.07x	unplaced-scaffold	na	na	JAMSHK010000043.1	=	NZ_JAMSHK010000043.1	Primary Assembly	19372	na
+44_length_18194_depth_0.64x	unplaced-scaffold	na	na	JAMSHK010000044.1	=	NZ_JAMSHK010000044.1	Primary Assembly	18194	na
+45_length_17140_depth_0.99x	unplaced-scaffold	na	na	JAMSHK010000045.1	=	NZ_JAMSHK010000045.1	Primary Assembly	17140	na
+46_length_16336_depth_0.66x	unplaced-scaffold	na	na	JAMSHK010000046.1	=	NZ_JAMSHK010000046.1	Primary Assembly	16336	na
+47_length_16249_depth_0.59x	unplaced-scaffold	na	na	JAMSHK010000047.1	=	NZ_JAMSHK010000047.1	Primary Assembly	16249	na
+48_length_15623_depth_0.89x	unplaced-scaffold	na	na	JAMSHK010000048.1	=	NZ_JAMSHK010000048.1	Primary Assembly	15623	na
+4_length_270957_depth_1.02x	unplaced-scaffold	na	na	JAMSHK010000004.1	=	NZ_JAMSHK010000004.1	Primary Assembly	270957	na
+50_length_12629_depth_0.87x	unplaced-scaffold	na	na	JAMSHK010000050.1	=	NZ_JAMSHK010000050.1	Primary Assembly	12629	na
+51_length_11157_depth_0.65x	unplaced-scaffold	na	na	JAMSHK010000051.1	=	NZ_JAMSHK010000051.1	Primary Assembly	11157	na
+52_length_10806_depth_0.63x	unplaced-scaffold	na	na	JAMSHK010000052.1	=	NZ_JAMSHK010000052.1	Primary Assembly	10806	na
+53_length_10404_depth_0.98x	unplaced-scaffold	na	na	JAMSHK010000053.1	=	NZ_JAMSHK010000053.1	Primary Assembly	10404	na
+54_length_9376_depth_0.59x	unplaced-scaffold	na	na	JAMSHK010000054.1	=	NZ_JAMSHK010000054.1	Primary Assembly	9376	na
+55_length_8855_depth_1.04x	unplaced-scaffold	na	na	JAMSHK010000055.1	=	NZ_JAMSHK010000055.1	Primary Assembly	8855	na
+57_length_8430_depth_0.57x	unplaced-scaffold	na	na	JAMSHK010000057.1	=	NZ_JAMSHK010000057.1	Primary Assembly	8430	na
+58_length_8132_depth_0.65x	unplaced-scaffold	na	na	JAMSHK010000058.1	=	NZ_JAMSHK010000058.1	Primary Assembly	8132	na
+59_length_7744_depth_0.88x	unplaced-scaffold	na	na	JAMSHK010000059.1	=	NZ_JAMSHK010000059.1	Primary Assembly	7744	na
+5_length_263727_depth_0.98x	unplaced-scaffold	na	na	JAMSHK010000005.1	=	NZ_JAMSHK010000005.1	Primary Assembly	263727	na
+60_length_7596_depth_0.50x	unplaced-scaffold	na	na	JAMSHK010000060.1	=	NZ_JAMSHK010000060.1	Primary Assembly	7596	na
+61_length_7356_depth_1.05x	unplaced-scaffold	na	na	JAMSHK010000061.1	=	NZ_JAMSHK010000061.1	Primary Assembly	7356	na
+62_length_6800_depth_0.62x	unplaced-scaffold	na	na	JAMSHK010000062.1	=	NZ_JAMSHK010000062.1	Primary Assembly	6800	na
+63_length_5298_depth_0.53x	unplaced-scaffold	na	na	JAMSHK010000063.1	=	NZ_JAMSHK010000063.1	Primary Assembly	5298	na
+64_length_5225_depth_0.59x	unplaced-scaffold	na	na	JAMSHK010000064.1	=	NZ_JAMSHK010000064.1	Primary Assembly	5225	na
+65_length_4862_depth_0.84x	unplaced-scaffold	na	na	JAMSHK010000065.1	=	NZ_JAMSHK010000065.1	Primary Assembly	4862	na
+66_length_4808_depth_0.91x	unplaced-scaffold	na	na	JAMSHK010000066.1	=	NZ_JAMSHK010000066.1	Primary Assembly	4808	na
+67_length_4237_depth_1.08x	unplaced-scaffold	na	na	JAMSHK010000067.1	=	NZ_JAMSHK010000067.1	Primary Assembly	4237	na
+68_length_3694_depth_0.89x	unplaced-scaffold	na	na	JAMSHK010000068.1	=	NZ_JAMSHK010000068.1	Primary Assembly	3694	na
+69_length_3576_depth_0.61x	unplaced-scaffold	na	na	JAMSHK010000069.1	=	NZ_JAMSHK010000069.1	Primary Assembly	3576	na
+6_length_254346_depth_0.90x	unplaced-scaffold	na	na	JAMSHK010000006.1	=	NZ_JAMSHK010000006.1	Primary Assembly	254346	na
+70_length_3564_depth_0.56x	unplaced-scaffold	na	na	JAMSHK010000070.1	=	NZ_JAMSHK010000070.1	Primary Assembly	3564	na
+71_length_3529_depth_0.61x	unplaced-scaffold	na	na	JAMSHK010000071.1	=	NZ_JAMSHK010000071.1	Primary Assembly	3529	na
+72_length_2900_depth_7.96x	unplaced-scaffold	na	na	JAMSHK010000072.1	=	NZ_JAMSHK010000072.1	Primary Assembly	2900	na
+73_length_2767_depth_0.61x	unplaced-scaffold	na	na	JAMSHK010000073.1	=	NZ_JAMSHK010000073.1	Primary Assembly	2767	na
+74_length_2743_depth_1.28x	unplaced-scaffold	na	na	JAMSHK010000074.1	=	NZ_JAMSHK010000074.1	Primary Assembly	2743	na
+75_length_2537_depth_0.67x	unplaced-scaffold	na	na	JAMSHK010000075.1	=	NZ_JAMSHK010000075.1	Primary Assembly	2537	na
+76_length_2404_depth_0.71x	unplaced-scaffold	na	na	JAMSHK010000076.1	=	NZ_JAMSHK010000076.1	Primary Assembly	2404	na
+77_length_2252_depth_1.63x	unplaced-scaffold	na	na	JAMSHK010000077.1	=	NZ_JAMSHK010000077.1	Primary Assembly	2252	na
+78_length_2134_depth_0.57x	unplaced-scaffold	na	na	JAMSHK010000078.1	=	NZ_JAMSHK010000078.1	Primary Assembly	2134	na
+79_length_1638_depth_8.42x	unplaced-scaffold	na	na	JAMSHK010000079.1	=	NZ_JAMSHK010000079.1	Primary Assembly	1638	na
+7_length_244887_depth_1.05x	unplaced-scaffold	na	na	JAMSHK010000007.1	=	NZ_JAMSHK010000007.1	Primary Assembly	244887	na
+80_length_1602_depth_1.79x	unplaced-scaffold	na	na	JAMSHK010000080.1	=	NZ_JAMSHK010000080.1	Primary Assembly	1602	na
+81_length_1548_depth_0.65x	unplaced-scaffold	na	na	JAMSHK010000081.1	=	NZ_JAMSHK010000081.1	Primary Assembly	1548	na
+82_length_1534_depth_0.61x	unplaced-scaffold	na	na	JAMSHK010000082.1	=	NZ_JAMSHK010000082.1	Primary Assembly	1534	na
+83_length_1501_depth_0.96x	unplaced-scaffold	na	na	JAMSHK010000083.1	=	NZ_JAMSHK010000083.1	Primary Assembly	1501	na
+84_length_1341_depth_1.87x	unplaced-scaffold	na	na	JAMSHK010000084.1	=	NZ_JAMSHK010000084.1	Primary Assembly	1341	na
+85_length_1339_depth_1.08x	unplaced-scaffold	na	na	JAMSHK010000085.1	=	NZ_JAMSHK010000085.1	Primary Assembly	1339	na
+86_length_1157_depth_4.74x	unplaced-scaffold	na	na	JAMSHK010000086.1	=	NZ_JAMSHK010000086.1	Primary Assembly	1157	na
+87_length_1112_depth_0.81x	unplaced-scaffold	na	na	JAMSHK010000087.1	=	NZ_JAMSHK010000087.1	Primary Assembly	1112	na
+88_length_1077_depth_11.49x	unplaced-scaffold	na	na	JAMSHK010000088.1	=	NZ_JAMSHK010000088.1	Primary Assembly	1077	na
+89_length_1050_depth_0.93x	unplaced-scaffold	na	na	JAMSHK010000089.1	=	NZ_JAMSHK010000089.1	Primary Assembly	1050	na
+8_length_240423_depth_0.95x	unplaced-scaffold	na	na	JAMSHK010000008.1	=	NZ_JAMSHK010000008.1	Primary Assembly	240423	na
+90_length_1038_depth_0.76x	unplaced-scaffold	na	na	JAMSHK010000090.1	=	NZ_JAMSHK010000090.1	Primary Assembly	1038	na
+91_length_1025_depth_2.05x	unplaced-scaffold	na	na	JAMSHK010000091.1	=	NZ_JAMSHK010000091.1	Primary Assembly	1025	na
+9_length_205776_depth_1.00x	unplaced-scaffold	na	na	JAMSHK010000009.1	=	NZ_JAMSHK010000009.1	Primary Assembly	205776	na

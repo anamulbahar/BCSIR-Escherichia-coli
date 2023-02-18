@@ -1,0 +1,228 @@
+# Assembly name:  ASM2041840v1
+# Organism name:  Escherichia coli (E. coli)
+# Infraspecific name:  strain=C15S15_CMSHL3
+# Taxid:          562
+# BioSample:      SAMN20931203
+# BioProject:     PRJNA756824
+# Submitter:      Bangladesh Council of Scientific and Industrial Research (BCSIR)
+# Date:           2021-10-11
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    JAIZPQ01
+# Assembly method: SPAdes v. 3.13.1
+# Expected final version: yes
+# Genome coverage: 50.0x
+# Sequencing technology: Illumina NextSeq
+# GenBank assembly accession: GCA_020418405.1
+# RefSeq assembly accession: GCF_020418405.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_020418415.1	GCF_020418415.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+BCSIR_EC_C15_scaffold_181	assembled-molecule	pCol-IRGK	Plasmid	JAIZPQ010000182.1	=	NZ_JAIZPQ010000182.1	Primary Assembly	2492	na
+BCSIR_EC_C15_scaffold_95	assembled-molecule	pIncFII	Plasmid	JAIZPQ010000096.1	=	NZ_JAIZPQ010000096.1	Primary Assembly	14014	na
+BCSIR_EC_C15_scaffold_0	unplaced-scaffold	na	na	JAIZPQ010000001.1	=	NZ_JAIZPQ010000001.1	Primary Assembly	451	na
+BCSIR_EC_C15_scaffold_1	unplaced-scaffold	na	na	JAIZPQ010000002.1	=	NZ_JAIZPQ010000002.1	Primary Assembly	332	na
+BCSIR_EC_C15_scaffold_10	unplaced-scaffold	na	na	JAIZPQ010000011.1	=	NZ_JAIZPQ010000011.1	Primary Assembly	1572	na
+BCSIR_EC_C15_scaffold_100	unplaced-scaffold	na	na	JAIZPQ010000101.1	=	NZ_JAIZPQ010000101.1	Primary Assembly	25087	na
+BCSIR_EC_C15_scaffold_101	unplaced-scaffold	na	na	JAIZPQ010000102.1	=	NZ_JAIZPQ010000102.1	Primary Assembly	21127	na
+BCSIR_EC_C15_scaffold_102	unplaced-scaffold	na	na	JAIZPQ010000103.1	=	NZ_JAIZPQ010000103.1	Primary Assembly	282	na
+BCSIR_EC_C15_scaffold_103	unplaced-scaffold	na	na	JAIZPQ010000104.1	=	NZ_JAIZPQ010000104.1	Primary Assembly	14188	na
+BCSIR_EC_C15_scaffold_104	unplaced-scaffold	na	na	JAIZPQ010000105.1	=	NZ_JAIZPQ010000105.1	Primary Assembly	1004	na
+BCSIR_EC_C15_scaffold_105	unplaced-scaffold	na	na	JAIZPQ010000106.1	=	NZ_JAIZPQ010000106.1	Primary Assembly	1546	na
+BCSIR_EC_C15_scaffold_106	unplaced-scaffold	na	na	JAIZPQ010000107.1	=	NZ_JAIZPQ010000107.1	Primary Assembly	311	na
+BCSIR_EC_C15_scaffold_107	unplaced-scaffold	na	na	JAIZPQ010000108.1	=	NZ_JAIZPQ010000108.1	Primary Assembly	9982	na
+BCSIR_EC_C15_scaffold_108	unplaced-scaffold	na	na	JAIZPQ010000109.1	=	NZ_JAIZPQ010000109.1	Primary Assembly	1384	na
+BCSIR_EC_C15_scaffold_109	unplaced-scaffold	na	na	JAIZPQ010000110.1	=	NZ_JAIZPQ010000110.1	Primary Assembly	1256	na
+BCSIR_EC_C15_scaffold_11	unplaced-scaffold	na	na	JAIZPQ010000012.1	=	NZ_JAIZPQ010000012.1	Primary Assembly	303	na
+BCSIR_EC_C15_scaffold_110	unplaced-scaffold	na	na	JAIZPQ010000111.1	=	NZ_JAIZPQ010000111.1	Primary Assembly	18563	na
+BCSIR_EC_C15_scaffold_111	unplaced-scaffold	na	na	JAIZPQ010000112.1	=	NZ_JAIZPQ010000112.1	Primary Assembly	30786	na
+BCSIR_EC_C15_scaffold_112	unplaced-scaffold	na	na	JAIZPQ010000113.1	=	NZ_JAIZPQ010000113.1	Primary Assembly	5172	na
+BCSIR_EC_C15_scaffold_113	unplaced-scaffold	na	na	JAIZPQ010000114.1	=	NZ_JAIZPQ010000114.1	Primary Assembly	260	na
+BCSIR_EC_C15_scaffold_114	unplaced-scaffold	na	na	JAIZPQ010000115.1	=	NZ_JAIZPQ010000115.1	Primary Assembly	4373	na
+BCSIR_EC_C15_scaffold_115	unplaced-scaffold	na	na	JAIZPQ010000116.1	=	NZ_JAIZPQ010000116.1	Primary Assembly	215	na
+BCSIR_EC_C15_scaffold_116	unplaced-scaffold	na	na	JAIZPQ010000117.1	=	NZ_JAIZPQ010000117.1	Primary Assembly	283	na
+BCSIR_EC_C15_scaffold_117	unplaced-scaffold	na	na	JAIZPQ010000118.1	=	NZ_JAIZPQ010000118.1	Primary Assembly	33071	na
+BCSIR_EC_C15_scaffold_118	unplaced-scaffold	na	na	JAIZPQ010000119.1	=	NZ_JAIZPQ010000119.1	Primary Assembly	341	na
+BCSIR_EC_C15_scaffold_119	unplaced-scaffold	na	na	JAIZPQ010000120.1	=	NZ_JAIZPQ010000120.1	Primary Assembly	50551	na
+BCSIR_EC_C15_scaffold_12	unplaced-scaffold	na	na	JAIZPQ010000013.1	=	NZ_JAIZPQ010000013.1	Primary Assembly	2322	na
+BCSIR_EC_C15_scaffold_120	unplaced-scaffold	na	na	JAIZPQ010000121.1	=	NZ_JAIZPQ010000121.1	Primary Assembly	45112	na
+BCSIR_EC_C15_scaffold_121	unplaced-scaffold	na	na	JAIZPQ010000122.1	=	NZ_JAIZPQ010000122.1	Primary Assembly	63780	na
+BCSIR_EC_C15_scaffold_122	unplaced-scaffold	na	na	JAIZPQ010000123.1	=	NZ_JAIZPQ010000123.1	Primary Assembly	39863	na
+BCSIR_EC_C15_scaffold_123	unplaced-scaffold	na	na	JAIZPQ010000124.1	=	NZ_JAIZPQ010000124.1	Primary Assembly	283	na
+BCSIR_EC_C15_scaffold_124	unplaced-scaffold	na	na	JAIZPQ010000125.1	=	NZ_JAIZPQ010000125.1	Primary Assembly	322	na
+BCSIR_EC_C15_scaffold_125	unplaced-scaffold	na	na	JAIZPQ010000126.1	=	NZ_JAIZPQ010000126.1	Primary Assembly	72876	na
+BCSIR_EC_C15_scaffold_126	unplaced-scaffold	na	na	JAIZPQ010000127.1	=	NZ_JAIZPQ010000127.1	Primary Assembly	272	na
+BCSIR_EC_C15_scaffold_127	unplaced-scaffold	na	na	JAIZPQ010000128.1	=	NZ_JAIZPQ010000128.1	Primary Assembly	244	na
+BCSIR_EC_C15_scaffold_128	unplaced-scaffold	na	na	JAIZPQ010000129.1	=	NZ_JAIZPQ010000129.1	Primary Assembly	278	na
+BCSIR_EC_C15_scaffold_129	unplaced-scaffold	na	na	JAIZPQ010000130.1	=	NZ_JAIZPQ010000130.1	Primary Assembly	1258	na
+BCSIR_EC_C15_scaffold_13	unplaced-scaffold	na	na	JAIZPQ010000014.1	=	NZ_JAIZPQ010000014.1	Primary Assembly	1925	na
+BCSIR_EC_C15_scaffold_130	unplaced-scaffold	na	na	JAIZPQ010000131.1	=	NZ_JAIZPQ010000131.1	Primary Assembly	50291	na
+BCSIR_EC_C15_scaffold_131	unplaced-scaffold	na	na	JAIZPQ010000132.1	=	NZ_JAIZPQ010000132.1	Primary Assembly	597	na
+BCSIR_EC_C15_scaffold_132	unplaced-scaffold	na	na	JAIZPQ010000133.1	=	NZ_JAIZPQ010000133.1	Primary Assembly	43677	na
+BCSIR_EC_C15_scaffold_133	unplaced-scaffold	na	na	JAIZPQ010000134.1	=	NZ_JAIZPQ010000134.1	Primary Assembly	53656	na
+BCSIR_EC_C15_scaffold_134	unplaced-scaffold	na	na	JAIZPQ010000135.1	=	NZ_JAIZPQ010000135.1	Primary Assembly	254	na
+BCSIR_EC_C15_scaffold_135	unplaced-scaffold	na	na	JAIZPQ010000136.1	=	NZ_JAIZPQ010000136.1	Primary Assembly	379	na
+BCSIR_EC_C15_scaffold_136	unplaced-scaffold	na	na	JAIZPQ010000137.1	=	NZ_JAIZPQ010000137.1	Primary Assembly	308	na
+BCSIR_EC_C15_scaffold_137	unplaced-scaffold	na	na	JAIZPQ010000138.1	=	NZ_JAIZPQ010000138.1	Primary Assembly	32707	na
+BCSIR_EC_C15_scaffold_138	unplaced-scaffold	na	na	JAIZPQ010000139.1	=	NZ_JAIZPQ010000139.1	Primary Assembly	19743	na
+BCSIR_EC_C15_scaffold_139	unplaced-scaffold	na	na	JAIZPQ010000140.1	=	NZ_JAIZPQ010000140.1	Primary Assembly	76609	na
+BCSIR_EC_C15_scaffold_14	unplaced-scaffold	na	na	JAIZPQ010000015.1	=	NZ_JAIZPQ010000015.1	Primary Assembly	224	na
+BCSIR_EC_C15_scaffold_140	unplaced-scaffold	na	na	JAIZPQ010000141.1	=	NZ_JAIZPQ010000141.1	Primary Assembly	7589	na
+BCSIR_EC_C15_scaffold_141	unplaced-scaffold	na	na	JAIZPQ010000142.1	=	NZ_JAIZPQ010000142.1	Primary Assembly	282	na
+BCSIR_EC_C15_scaffold_142	unplaced-scaffold	na	na	JAIZPQ010000143.1	=	NZ_JAIZPQ010000143.1	Primary Assembly	77671	na
+BCSIR_EC_C15_scaffold_143	unplaced-scaffold	na	na	JAIZPQ010000144.1	=	NZ_JAIZPQ010000144.1	Primary Assembly	96066	na
+BCSIR_EC_C15_scaffold_144	unplaced-scaffold	na	na	JAIZPQ010000145.1	=	NZ_JAIZPQ010000145.1	Primary Assembly	294	na
+BCSIR_EC_C15_scaffold_145	unplaced-scaffold	na	na	JAIZPQ010000146.1	=	NZ_JAIZPQ010000146.1	Primary Assembly	43188	na
+BCSIR_EC_C15_scaffold_146	unplaced-scaffold	na	na	JAIZPQ010000147.1	=	NZ_JAIZPQ010000147.1	Primary Assembly	2216	na
+BCSIR_EC_C15_scaffold_147	unplaced-scaffold	na	na	JAIZPQ010000148.1	=	NZ_JAIZPQ010000148.1	Primary Assembly	120335	na
+BCSIR_EC_C15_scaffold_148	unplaced-scaffold	na	na	JAIZPQ010000149.1	=	NZ_JAIZPQ010000149.1	Primary Assembly	42632	na
+BCSIR_EC_C15_scaffold_149	unplaced-scaffold	na	na	JAIZPQ010000150.1	=	NZ_JAIZPQ010000150.1	Primary Assembly	19947	na
+BCSIR_EC_C15_scaffold_15	unplaced-scaffold	na	na	JAIZPQ010000016.1	=	NZ_JAIZPQ010000016.1	Primary Assembly	354	na
+BCSIR_EC_C15_scaffold_150	unplaced-scaffold	na	na	JAIZPQ010000151.1	=	NZ_JAIZPQ010000151.1	Primary Assembly	407	na
+BCSIR_EC_C15_scaffold_151	unplaced-scaffold	na	na	JAIZPQ010000152.1	=	NZ_JAIZPQ010000152.1	Primary Assembly	200	na
+BCSIR_EC_C15_scaffold_152	unplaced-scaffold	na	na	JAIZPQ010000153.1	=	NZ_JAIZPQ010000153.1	Primary Assembly	5089	na
+BCSIR_EC_C15_scaffold_153	unplaced-scaffold	na	na	JAIZPQ010000154.1	=	NZ_JAIZPQ010000154.1	Primary Assembly	26427	na
+BCSIR_EC_C15_scaffold_154	unplaced-scaffold	na	na	JAIZPQ010000155.1	=	NZ_JAIZPQ010000155.1	Primary Assembly	353649	na
+BCSIR_EC_C15_scaffold_155	unplaced-scaffold	na	na	JAIZPQ010000156.1	=	NZ_JAIZPQ010000156.1	Primary Assembly	2088	na
+BCSIR_EC_C15_scaffold_156	unplaced-scaffold	na	na	JAIZPQ010000157.1	=	NZ_JAIZPQ010000157.1	Primary Assembly	569	na
+BCSIR_EC_C15_scaffold_157	unplaced-scaffold	na	na	JAIZPQ010000158.1	=	NZ_JAIZPQ010000158.1	Primary Assembly	2931	na
+BCSIR_EC_C15_scaffold_158	unplaced-scaffold	na	na	JAIZPQ010000159.1	=	NZ_JAIZPQ010000159.1	Primary Assembly	30994	na
+BCSIR_EC_C15_scaffold_159	unplaced-scaffold	na	na	JAIZPQ010000160.1	=	NZ_JAIZPQ010000160.1	Primary Assembly	178099	na
+BCSIR_EC_C15_scaffold_16	unplaced-scaffold	na	na	JAIZPQ010000017.1	=	NZ_JAIZPQ010000017.1	Primary Assembly	334	na
+BCSIR_EC_C15_scaffold_160	unplaced-scaffold	na	na	JAIZPQ010000161.1	=	NZ_JAIZPQ010000161.1	Primary Assembly	1164	na
+BCSIR_EC_C15_scaffold_161	unplaced-scaffold	na	na	JAIZPQ010000162.1	=	NZ_JAIZPQ010000162.1	Primary Assembly	1739	na
+BCSIR_EC_C15_scaffold_162	unplaced-scaffold	na	na	JAIZPQ010000163.1	=	NZ_JAIZPQ010000163.1	Primary Assembly	118898	na
+BCSIR_EC_C15_scaffold_163	unplaced-scaffold	na	na	JAIZPQ010000164.1	=	NZ_JAIZPQ010000164.1	Primary Assembly	171681	na
+BCSIR_EC_C15_scaffold_164	unplaced-scaffold	na	na	JAIZPQ010000165.1	=	NZ_JAIZPQ010000165.1	Primary Assembly	323	na
+BCSIR_EC_C15_scaffold_165	unplaced-scaffold	na	na	JAIZPQ010000166.1	=	NZ_JAIZPQ010000166.1	Primary Assembly	158753	na
+BCSIR_EC_C15_scaffold_166	unplaced-scaffold	na	na	JAIZPQ010000167.1	=	NZ_JAIZPQ010000167.1	Primary Assembly	756	na
+BCSIR_EC_C15_scaffold_167	unplaced-scaffold	na	na	JAIZPQ010000168.1	=	NZ_JAIZPQ010000168.1	Primary Assembly	33367	na
+BCSIR_EC_C15_scaffold_168	unplaced-scaffold	na	na	JAIZPQ010000169.1	=	NZ_JAIZPQ010000169.1	Primary Assembly	134905	na
+BCSIR_EC_C15_scaffold_169	unplaced-scaffold	na	na	JAIZPQ010000170.1	=	NZ_JAIZPQ010000170.1	Primary Assembly	257	na
+BCSIR_EC_C15_scaffold_17	unplaced-scaffold	na	na	JAIZPQ010000018.1	=	NZ_JAIZPQ010000018.1	Primary Assembly	557	na
+BCSIR_EC_C15_scaffold_170	unplaced-scaffold	na	na	JAIZPQ010000171.1	=	NZ_JAIZPQ010000171.1	Primary Assembly	136116	na
+BCSIR_EC_C15_scaffold_171	unplaced-scaffold	na	na	JAIZPQ010000172.1	=	NZ_JAIZPQ010000172.1	Primary Assembly	113932	na
+BCSIR_EC_C15_scaffold_172	unplaced-scaffold	na	na	JAIZPQ010000173.1	=	NZ_JAIZPQ010000173.1	Primary Assembly	1054	na
+BCSIR_EC_C15_scaffold_173	unplaced-scaffold	na	na	JAIZPQ010000174.1	=	NZ_JAIZPQ010000174.1	Primary Assembly	547	na
+BCSIR_EC_C15_scaffold_174	unplaced-scaffold	na	na	JAIZPQ010000175.1	=	NZ_JAIZPQ010000175.1	Primary Assembly	166662	na
+BCSIR_EC_C15_scaffold_175	unplaced-scaffold	na	na	JAIZPQ010000176.1	=	NZ_JAIZPQ010000176.1	Primary Assembly	667	na
+BCSIR_EC_C15_scaffold_176	unplaced-scaffold	na	na	JAIZPQ010000177.1	=	NZ_JAIZPQ010000177.1	Primary Assembly	269	na
+BCSIR_EC_C15_scaffold_177	unplaced-scaffold	na	na	JAIZPQ010000178.1	=	NZ_JAIZPQ010000178.1	Primary Assembly	207	na
+BCSIR_EC_C15_scaffold_178	unplaced-scaffold	na	na	JAIZPQ010000179.1	=	NZ_JAIZPQ010000179.1	Primary Assembly	248438	na
+BCSIR_EC_C15_scaffold_179	unplaced-scaffold	na	na	JAIZPQ010000180.1	=	NZ_JAIZPQ010000180.1	Primary Assembly	87177	na
+BCSIR_EC_C15_scaffold_18	unplaced-scaffold	na	na	JAIZPQ010000019.1	=	NZ_JAIZPQ010000019.1	Primary Assembly	1153	na
+BCSIR_EC_C15_scaffold_180	unplaced-scaffold	na	na	JAIZPQ010000181.1	=	NZ_JAIZPQ010000181.1	Primary Assembly	3018	na
+BCSIR_EC_C15_scaffold_182	unplaced-scaffold	na	na	JAIZPQ010000183.1	=	NZ_JAIZPQ010000183.1	Primary Assembly	146598	na
+BCSIR_EC_C15_scaffold_183	unplaced-scaffold	na	na	JAIZPQ010000184.1	=	NZ_JAIZPQ010000184.1	Primary Assembly	115997	na
+BCSIR_EC_C15_scaffold_184	unplaced-scaffold	na	na	JAIZPQ010000185.1	=	NZ_JAIZPQ010000185.1	Primary Assembly	426	na
+BCSIR_EC_C15_scaffold_185	unplaced-scaffold	na	na	JAIZPQ010000186.1	=	NZ_JAIZPQ010000186.1	Primary Assembly	192466	na
+BCSIR_EC_C15_scaffold_186	unplaced-scaffold	na	na	JAIZPQ010000187.1	=	NZ_JAIZPQ010000187.1	Primary Assembly	249298	na
+BCSIR_EC_C15_scaffold_187	unplaced-scaffold	na	na	JAIZPQ010000188.1	=	NZ_JAIZPQ010000188.1	Primary Assembly	89665	na
+BCSIR_EC_C15_scaffold_188	unplaced-scaffold	na	na	JAIZPQ010000189.1	=	NZ_JAIZPQ010000189.1	Primary Assembly	19692	na
+BCSIR_EC_C15_scaffold_189	unplaced-scaffold	na	na	JAIZPQ010000190.1	=	NZ_JAIZPQ010000190.1	Primary Assembly	125595	na
+BCSIR_EC_C15_scaffold_19	unplaced-scaffold	na	na	JAIZPQ010000020.1	=	NZ_JAIZPQ010000020.1	Primary Assembly	4092	na
+BCSIR_EC_C15_scaffold_190	unplaced-scaffold	na	na	JAIZPQ010000191.1	=	NZ_JAIZPQ010000191.1	Primary Assembly	342864	na
+BCSIR_EC_C15_scaffold_191	unplaced-scaffold	na	na	JAIZPQ010000192.1	=	NZ_JAIZPQ010000192.1	Primary Assembly	397	na
+BCSIR_EC_C15_scaffold_192	unplaced-scaffold	na	na	JAIZPQ010000193.1	=	NZ_JAIZPQ010000193.1	Primary Assembly	88005	na
+BCSIR_EC_C15_scaffold_193	unplaced-scaffold	na	na	JAIZPQ010000194.1	=	NZ_JAIZPQ010000194.1	Primary Assembly	232477	na
+BCSIR_EC_C15_scaffold_194	unplaced-scaffold	na	na	JAIZPQ010000195.1	=	NZ_JAIZPQ010000195.1	Primary Assembly	1097	na
+BCSIR_EC_C15_scaffold_195	unplaced-scaffold	na	na	JAIZPQ010000196.1	=	NZ_JAIZPQ010000196.1	Primary Assembly	486	na
+BCSIR_EC_C15_scaffold_196	unplaced-scaffold	na	na	JAIZPQ010000197.1	=	NZ_JAIZPQ010000197.1	Primary Assembly	1950	na
+BCSIR_EC_C15_scaffold_2	unplaced-scaffold	na	na	JAIZPQ010000003.1	=	NZ_JAIZPQ010000003.1	Primary Assembly	279	na
+BCSIR_EC_C15_scaffold_20	unplaced-scaffold	na	na	JAIZPQ010000021.1	=	NZ_JAIZPQ010000021.1	Primary Assembly	265	na
+BCSIR_EC_C15_scaffold_21	unplaced-scaffold	na	na	JAIZPQ010000022.1	=	NZ_JAIZPQ010000022.1	Primary Assembly	211	na
+BCSIR_EC_C15_scaffold_22	unplaced-scaffold	na	na	JAIZPQ010000023.1	=	NZ_JAIZPQ010000023.1	Primary Assembly	4399	na
+BCSIR_EC_C15_scaffold_23	unplaced-scaffold	na	na	JAIZPQ010000024.1	=	NZ_JAIZPQ010000024.1	Primary Assembly	272	na
+BCSIR_EC_C15_scaffold_24	unplaced-scaffold	na	na	JAIZPQ010000025.1	=	NZ_JAIZPQ010000025.1	Primary Assembly	1587	na
+BCSIR_EC_C15_scaffold_25	unplaced-scaffold	na	na	JAIZPQ010000026.1	=	NZ_JAIZPQ010000026.1	Primary Assembly	289	na
+BCSIR_EC_C15_scaffold_26	unplaced-scaffold	na	na	JAIZPQ010000027.1	=	NZ_JAIZPQ010000027.1	Primary Assembly	321	na
+BCSIR_EC_C15_scaffold_27	unplaced-scaffold	na	na	JAIZPQ010000028.1	=	NZ_JAIZPQ010000028.1	Primary Assembly	1126	na
+BCSIR_EC_C15_scaffold_28	unplaced-scaffold	na	na	JAIZPQ010000029.1	=	NZ_JAIZPQ010000029.1	Primary Assembly	1344	na
+BCSIR_EC_C15_scaffold_29	unplaced-scaffold	na	na	JAIZPQ010000030.1	=	NZ_JAIZPQ010000030.1	Primary Assembly	214	na
+BCSIR_EC_C15_scaffold_3	unplaced-scaffold	na	na	JAIZPQ010000004.1	=	NZ_JAIZPQ010000004.1	Primary Assembly	234	na
+BCSIR_EC_C15_scaffold_30	unplaced-scaffold	na	na	JAIZPQ010000031.1	=	NZ_JAIZPQ010000031.1	Primary Assembly	1579	na
+BCSIR_EC_C15_scaffold_31	unplaced-scaffold	na	na	JAIZPQ010000032.1	=	NZ_JAIZPQ010000032.1	Primary Assembly	296	na
+BCSIR_EC_C15_scaffold_32	unplaced-scaffold	na	na	JAIZPQ010000033.1	=	NZ_JAIZPQ010000033.1	Primary Assembly	975	na
+BCSIR_EC_C15_scaffold_33	unplaced-scaffold	na	na	JAIZPQ010000034.1	=	NZ_JAIZPQ010000034.1	Primary Assembly	586	na
+BCSIR_EC_C15_scaffold_34	unplaced-scaffold	na	na	JAIZPQ010000035.1	=	NZ_JAIZPQ010000035.1	Primary Assembly	1964	na
+BCSIR_EC_C15_scaffold_35	unplaced-scaffold	na	na	JAIZPQ010000036.1	=	NZ_JAIZPQ010000036.1	Primary Assembly	321	na
+BCSIR_EC_C15_scaffold_36	unplaced-scaffold	na	na	JAIZPQ010000037.1	=	NZ_JAIZPQ010000037.1	Primary Assembly	3186	na
+BCSIR_EC_C15_scaffold_37	unplaced-scaffold	na	na	JAIZPQ010000038.1	=	NZ_JAIZPQ010000038.1	Primary Assembly	1323	na
+BCSIR_EC_C15_scaffold_38	unplaced-scaffold	na	na	JAIZPQ010000039.1	=	NZ_JAIZPQ010000039.1	Primary Assembly	3849	na
+BCSIR_EC_C15_scaffold_39	unplaced-scaffold	na	na	JAIZPQ010000040.1	=	NZ_JAIZPQ010000040.1	Primary Assembly	383	na
+BCSIR_EC_C15_scaffold_4	unplaced-scaffold	na	na	JAIZPQ010000005.1	=	NZ_JAIZPQ010000005.1	Primary Assembly	1570	na
+BCSIR_EC_C15_scaffold_40	unplaced-scaffold	na	na	JAIZPQ010000041.1	=	NZ_JAIZPQ010000041.1	Primary Assembly	300	na
+BCSIR_EC_C15_scaffold_41	unplaced-scaffold	na	na	JAIZPQ010000042.1	=	NZ_JAIZPQ010000042.1	Primary Assembly	369	na
+BCSIR_EC_C15_scaffold_42	unplaced-scaffold	na	na	JAIZPQ010000043.1	=	NZ_JAIZPQ010000043.1	Primary Assembly	328	na
+BCSIR_EC_C15_scaffold_43	unplaced-scaffold	na	na	JAIZPQ010000044.1	=	NZ_JAIZPQ010000044.1	Primary Assembly	381	na
+BCSIR_EC_C15_scaffold_44	unplaced-scaffold	na	na	JAIZPQ010000045.1	=	NZ_JAIZPQ010000045.1	Primary Assembly	1048	na
+BCSIR_EC_C15_scaffold_45	unplaced-scaffold	na	na	JAIZPQ010000046.1	=	NZ_JAIZPQ010000046.1	Primary Assembly	249	na
+BCSIR_EC_C15_scaffold_46	unplaced-scaffold	na	na	JAIZPQ010000047.1	=	NZ_JAIZPQ010000047.1	Primary Assembly	1289	na
+BCSIR_EC_C15_scaffold_47	unplaced-scaffold	na	na	JAIZPQ010000048.1	=	NZ_JAIZPQ010000048.1	Primary Assembly	324	na
+BCSIR_EC_C15_scaffold_48	unplaced-scaffold	na	na	JAIZPQ010000049.1	=	NZ_JAIZPQ010000049.1	Primary Assembly	2638	na
+BCSIR_EC_C15_scaffold_49	unplaced-scaffold	na	na	JAIZPQ010000050.1	=	NZ_JAIZPQ010000050.1	Primary Assembly	201	na
+BCSIR_EC_C15_scaffold_5	unplaced-scaffold	na	na	JAIZPQ010000006.1	=	NZ_JAIZPQ010000006.1	Primary Assembly	1373	na
+BCSIR_EC_C15_scaffold_50	unplaced-scaffold	na	na	JAIZPQ010000051.1	=	NZ_JAIZPQ010000051.1	Primary Assembly	335	na
+BCSIR_EC_C15_scaffold_51	unplaced-scaffold	na	na	JAIZPQ010000052.1	=	NZ_JAIZPQ010000052.1	Primary Assembly	448	na
+BCSIR_EC_C15_scaffold_52	unplaced-scaffold	na	na	JAIZPQ010000053.1	=	NZ_JAIZPQ010000053.1	Primary Assembly	1293	na
+BCSIR_EC_C15_scaffold_53	unplaced-scaffold	na	na	JAIZPQ010000054.1	=	NZ_JAIZPQ010000054.1	Primary Assembly	298	na
+BCSIR_EC_C15_scaffold_54	unplaced-scaffold	na	na	JAIZPQ010000055.1	=	NZ_JAIZPQ010000055.1	Primary Assembly	848	na
+BCSIR_EC_C15_scaffold_55	unplaced-scaffold	na	na	JAIZPQ010000056.1	=	NZ_JAIZPQ010000056.1	Primary Assembly	866	na
+BCSIR_EC_C15_scaffold_56	unplaced-scaffold	na	na	JAIZPQ010000057.1	=	NZ_JAIZPQ010000057.1	Primary Assembly	321	na
+BCSIR_EC_C15_scaffold_57	unplaced-scaffold	na	na	JAIZPQ010000058.1	=	NZ_JAIZPQ010000058.1	Primary Assembly	451	na
+BCSIR_EC_C15_scaffold_58	unplaced-scaffold	na	na	JAIZPQ010000059.1	=	NZ_JAIZPQ010000059.1	Primary Assembly	270	na
+BCSIR_EC_C15_scaffold_59	unplaced-scaffold	na	na	JAIZPQ010000060.1	=	NZ_JAIZPQ010000060.1	Primary Assembly	1599	na
+BCSIR_EC_C15_scaffold_6	unplaced-scaffold	na	na	JAIZPQ010000007.1	=	NZ_JAIZPQ010000007.1	Primary Assembly	240	na
+BCSIR_EC_C15_scaffold_60	unplaced-scaffold	na	na	JAIZPQ010000061.1	=	NZ_JAIZPQ010000061.1	Primary Assembly	5028	na
+BCSIR_EC_C15_scaffold_61	unplaced-scaffold	na	na	JAIZPQ010000062.1	=	NZ_JAIZPQ010000062.1	Primary Assembly	956	na
+BCSIR_EC_C15_scaffold_62	unplaced-scaffold	na	na	JAIZPQ010000063.1	=	NZ_JAIZPQ010000063.1	Primary Assembly	1124	na
+BCSIR_EC_C15_scaffold_63	unplaced-scaffold	na	na	JAIZPQ010000064.1	=	NZ_JAIZPQ010000064.1	Primary Assembly	1440	na
+BCSIR_EC_C15_scaffold_64	unplaced-scaffold	na	na	JAIZPQ010000065.1	=	NZ_JAIZPQ010000065.1	Primary Assembly	9098	na
+BCSIR_EC_C15_scaffold_65	unplaced-scaffold	na	na	JAIZPQ010000066.1	=	NZ_JAIZPQ010000066.1	Primary Assembly	8479	na
+BCSIR_EC_C15_scaffold_66	unplaced-scaffold	na	na	JAIZPQ010000067.1	=	NZ_JAIZPQ010000067.1	Primary Assembly	2581	na
+BCSIR_EC_C15_scaffold_67	unplaced-scaffold	na	na	JAIZPQ010000068.1	=	NZ_JAIZPQ010000068.1	Primary Assembly	8040	na
+BCSIR_EC_C15_scaffold_68	unplaced-scaffold	na	na	JAIZPQ010000069.1	=	NZ_JAIZPQ010000069.1	Primary Assembly	211	na
+BCSIR_EC_C15_scaffold_69	unplaced-scaffold	na	na	JAIZPQ010000070.1	=	NZ_JAIZPQ010000070.1	Primary Assembly	1407	na
+BCSIR_EC_C15_scaffold_7	unplaced-scaffold	na	na	JAIZPQ010000008.1	=	NZ_JAIZPQ010000008.1	Primary Assembly	329	na
+BCSIR_EC_C15_scaffold_70	unplaced-scaffold	na	na	JAIZPQ010000071.1	=	NZ_JAIZPQ010000071.1	Primary Assembly	338	na
+BCSIR_EC_C15_scaffold_71	unplaced-scaffold	na	na	JAIZPQ010000072.1	=	NZ_JAIZPQ010000072.1	Primary Assembly	7471	na
+BCSIR_EC_C15_scaffold_72	unplaced-scaffold	na	na	JAIZPQ010000073.1	=	NZ_JAIZPQ010000073.1	Primary Assembly	3241	na
+BCSIR_EC_C15_scaffold_73	unplaced-scaffold	na	na	JAIZPQ010000074.1	=	NZ_JAIZPQ010000074.1	Primary Assembly	4712	na
+BCSIR_EC_C15_scaffold_74	unplaced-scaffold	na	na	JAIZPQ010000075.1	=	NZ_JAIZPQ010000075.1	Primary Assembly	2671	na
+BCSIR_EC_C15_scaffold_75	unplaced-scaffold	na	na	JAIZPQ010000076.1	=	NZ_JAIZPQ010000076.1	Primary Assembly	13449	na
+BCSIR_EC_C15_scaffold_76	unplaced-scaffold	na	na	JAIZPQ010000077.1	=	NZ_JAIZPQ010000077.1	Primary Assembly	485	na
+BCSIR_EC_C15_scaffold_77	unplaced-scaffold	na	na	JAIZPQ010000078.1	=	NZ_JAIZPQ010000078.1	Primary Assembly	740	na
+BCSIR_EC_C15_scaffold_78	unplaced-scaffold	na	na	JAIZPQ010000079.1	=	NZ_JAIZPQ010000079.1	Primary Assembly	3576	na
+BCSIR_EC_C15_scaffold_79	unplaced-scaffold	na	na	JAIZPQ010000080.1	=	NZ_JAIZPQ010000080.1	Primary Assembly	386	na
+BCSIR_EC_C15_scaffold_8	unplaced-scaffold	na	na	JAIZPQ010000009.1	=	NZ_JAIZPQ010000009.1	Primary Assembly	722	na
+BCSIR_EC_C15_scaffold_80	unplaced-scaffold	na	na	JAIZPQ010000081.1	=	NZ_JAIZPQ010000081.1	Primary Assembly	321	na
+BCSIR_EC_C15_scaffold_81	unplaced-scaffold	na	na	JAIZPQ010000082.1	=	NZ_JAIZPQ010000082.1	Primary Assembly	268	na
+BCSIR_EC_C15_scaffold_82	unplaced-scaffold	na	na	JAIZPQ010000083.1	=	NZ_JAIZPQ010000083.1	Primary Assembly	1151	na
+BCSIR_EC_C15_scaffold_83	unplaced-scaffold	na	na	JAIZPQ010000084.1	=	NZ_JAIZPQ010000084.1	Primary Assembly	406	na
+BCSIR_EC_C15_scaffold_84	unplaced-scaffold	na	na	JAIZPQ010000085.1	=	NZ_JAIZPQ010000085.1	Primary Assembly	2377	na
+BCSIR_EC_C15_scaffold_85	unplaced-scaffold	na	na	JAIZPQ010000086.1	=	NZ_JAIZPQ010000086.1	Primary Assembly	2965	na
+BCSIR_EC_C15_scaffold_86	unplaced-scaffold	na	na	JAIZPQ010000087.1	=	NZ_JAIZPQ010000087.1	Primary Assembly	420	na
+BCSIR_EC_C15_scaffold_87	unplaced-scaffold	na	na	JAIZPQ010000088.1	=	NZ_JAIZPQ010000088.1	Primary Assembly	9796	na
+BCSIR_EC_C15_scaffold_88	unplaced-scaffold	na	na	JAIZPQ010000089.1	=	NZ_JAIZPQ010000089.1	Primary Assembly	16130	na
+BCSIR_EC_C15_scaffold_89	unplaced-scaffold	na	na	JAIZPQ010000090.1	=	NZ_JAIZPQ010000090.1	Primary Assembly	11510	na
+BCSIR_EC_C15_scaffold_9	unplaced-scaffold	na	na	JAIZPQ010000010.1	=	NZ_JAIZPQ010000010.1	Primary Assembly	1572	na
+BCSIR_EC_C15_scaffold_90	unplaced-scaffold	na	na	JAIZPQ010000091.1	=	NZ_JAIZPQ010000091.1	Primary Assembly	275	na
+BCSIR_EC_C15_scaffold_91	unplaced-scaffold	na	na	JAIZPQ010000092.1	=	NZ_JAIZPQ010000092.1	Primary Assembly	414	na
+BCSIR_EC_C15_scaffold_92	unplaced-scaffold	na	na	JAIZPQ010000093.1	=	NZ_JAIZPQ010000093.1	Primary Assembly	281	na
+BCSIR_EC_C15_scaffold_93	unplaced-scaffold	na	na	JAIZPQ010000094.1	=	NZ_JAIZPQ010000094.1	Primary Assembly	591	na
+BCSIR_EC_C15_scaffold_94	unplaced-scaffold	na	na	JAIZPQ010000095.1	=	NZ_JAIZPQ010000095.1	Primary Assembly	309	na
+BCSIR_EC_C15_scaffold_96	unplaced-scaffold	na	na	JAIZPQ010000097.1	=	NZ_JAIZPQ010000097.1	Primary Assembly	281	na
+BCSIR_EC_C15_scaffold_97	unplaced-scaffold	na	na	JAIZPQ010000098.1	=	NZ_JAIZPQ010000098.1	Primary Assembly	291	na
+BCSIR_EC_C15_scaffold_98	unplaced-scaffold	na	na	JAIZPQ010000099.1	=	NZ_JAIZPQ010000099.1	Primary Assembly	290	na
+BCSIR_EC_C15_scaffold_99	unplaced-scaffold	na	na	JAIZPQ010000100.1	=	NZ_JAIZPQ010000100.1	Primary Assembly	13394	na
